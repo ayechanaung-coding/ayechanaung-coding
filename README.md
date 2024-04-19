@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello friends 👋, I am Aye Chan Aung! ⚡
+
+---
+**About me**
+
+- 🎓 B.C.Sc (Software Engineering Specialize) [University Of Computer Studies,Yangon]
+- 💼 Software Engineer at [ACE Data Systems](https://acedatasystems.com/)
+
 
 <!--
 **ayechanaung-coding/ayechanaung-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
